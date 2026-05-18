@@ -197,3 +197,13 @@ html {
         right: 8px;
     }
 }
+#hero .counter {
+    padding-left:1rem;
+    padding-right:1rem;
+}
+.typing-text {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    text-align: left;
+    padding-left: 0.5rem;
+}
